@@ -17,7 +17,5 @@
     "url": "https://github.com/siratl/testing-ii/issues"
   },
   "homepage": "https://github.com/siratl/testing-ii#readme",
-  "devDependencies": {
-    "jest": "^24.1.0"
-  }
+  "devDependencies": {}
 }
